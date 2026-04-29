@@ -46,7 +46,6 @@ However, there is often **limited visibility into granted permissions and capabi
 
 * Detect exposed MCP endpoints
 * Identify exposed tools and potential execution capabilities
-* Highlight trust boundary issues
 
 ### 🔐 Security Auditing
 
