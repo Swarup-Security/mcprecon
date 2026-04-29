@@ -1,0 +1,5 @@
+# mcprecon has no required external dependencies
+# Uses Python standard library only
+
+# Optional dependency for GPU detection
+torch
