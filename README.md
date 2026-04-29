@@ -98,6 +98,7 @@ pip install -r requirements.txt
 ```
 
 ---
+This is mostly not required unless you want to perform a GPU detection
 
 ## ▶️ Usage
 
