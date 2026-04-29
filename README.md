@@ -156,19 +156,6 @@ mcprecon focuses on **reconnaissance and security auditing**.
 
 ---
 
-## 🧪 Demo Scenario (Conference Use)
-
-A typical mcprecon assessment may reveal:
-
-1. An MCP server running locally or on a reachable network port
-2. Tool interfaces exposed without authentication
-3. Agent frameworks with access to filesystem or external APIs
-4. Sensitive API keys present in environment or config files
-
-These findings demonstrate how AI environments can introduce **implicit trust chains** and **expanded attack surfaces**, even without active exploitation.
-
----
-
 ## 🧪 Use Cases
 
 * 🔴 Red Team: Reconnaissance of AI environments
@@ -183,19 +170,9 @@ These findings demonstrate how AI environments can introduce **implicit trust ch
 * Safe validation of tool execution boundaries
 * Active attack simulation (prompt injection, tool misuse)
 * Risk scoring (CVSS-style)
-* CI/CD integration
-* Advanced secret scanning
 * MCP fuzzing and exploitation modules
 
 ---
-
-## 📢 Research & Conference Work
-
-This project is part of ongoing research into **AI execution-layer security** and MCP ecosystems.
-
-**Core Idea:**
-
-> AI systems should be treated as **attack surfaces**, not just applications.
 
 ---
 
@@ -216,12 +193,3 @@ Feel free to:
 This tool is intended for **educational and authorized security testing purposes only**.
 
 Do not use it on systems without proper permission.
-
----
-
-## 👤 Author
-
-**Swarup N**
-Security Researcher | AI Security
-
----
